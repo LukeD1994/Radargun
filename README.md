@@ -1,7 +1,7 @@
 # Radargun
 Radargun for FiveM
 
-- **Press Y to open**
+- **Press Y to open or use /rg in chat**
 - **Press E to freeze Measurement**
 
 You can change this in the Config.lua :)
